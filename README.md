@@ -1,4 +1,7 @@
-### Hi, I'm Jyoti Ranjan Ghibila 👋
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! I am Jyoti Ranjan; I am a Full-stack%20web%20developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000" /></a>
+</p>
 
 <div align="center" style="margin:30px;">
 <img src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" width="400" height="300"/>
@@ -12,7 +15,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Web Developer <img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif" width="30"> from India.
 
 - :telescope: I’m studying Full stack web devlopment at Masai School and contributing to frontend and backend for building web applications.
 
