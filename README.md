@@ -4,7 +4,7 @@
 </p>
 
 <div align="center" style="margin:30px;">
-<img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif" width="400" height="300"/>
+<img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif" width="800" height="300"/>
 </div> 
 
 
