@@ -94,8 +94,13 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <h2 align="center">📊 My Github Stats</h2>
-   <br/>   
-  
+   <br/>
+   <p  align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JyotiranjanGhibila&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"
+            alt="git"
+          />
+    </p>
+  <br/>
    <p align="center">
     <a href="https://github.com/JyotiranjanGhibila/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="masum streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JyotiranjanGhibila&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
@@ -105,7 +110,7 @@
   <br/>
   <br/>
      <p align="center">                                                                                                 
-    <a href="https://github.com/JyotiranjanGhibila/github-readme-stats"><img alt="masum Github Stats" src="https://github-readme-stats.vercel.app/api?username=JyotiranjanGhibila&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="masum" /></a>
+    <a href="https://github.com/JyotiranjanGhibila/github-readme-stats"><img alt="masum Github Stats" src="https://github-readme-stats.vercel.app/api?username=JyotiranjanGhibila&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="jrg" /></a>
     </p>
 
 <br/>
