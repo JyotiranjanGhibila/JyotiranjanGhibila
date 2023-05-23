@@ -26,6 +26,8 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 - 📫:How to reach me: <a href="https://www.linkedin.com/in/jyoti-ranjan-ghibila-449105206/" target="_blank">LinkedIn
   </a>
 <br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JyotiranjanGhibila&label=Profile%20views&color=0e75b6&style=flat" alt="JyotiranjanGhibila" /> </p>
+<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="img" align="right" width="400"/>
 <hr/>
 
 ### :hammer_and_wrench: Languages and Tools :
