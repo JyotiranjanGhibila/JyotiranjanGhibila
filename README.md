@@ -9,7 +9,7 @@
 
 <!----------------------------------- Banner Section ------------------------------------>
 
-[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://alih6051.github.io)
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQHJo6bVvtHNkg/profile-displaybackgroundimage-shrink_350_1400/0/1680351877759?e=1710374400&v=beta&t=5onVKy67VtACiEQh8KwPs4RAU2KYO-IL1tYIpHrx9sI)](https://jyotiranjanghibila.github.io/)
 
 <h3 align="center">A Full Stack Web Developer skilled in MERN stack who focuses on writing clean and efficient code.</h3>
 
@@ -48,7 +48,6 @@
 <h2 align="center">🚀 Languages and Tools:</h2>
 <br/>
 <div align="center">
- 
  <div align="center"><h3 align="center">Frontend</h3>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
 <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
